@@ -1,2 +1,2 @@
 # software
-// Compound interest calculation program
+Compound interest calculation program
